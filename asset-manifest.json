@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/SWYFT-E-COMMERCE/static/css/main.cdc225e5.css",
+    "main.js": "/SWYFT-E-COMMERCE/static/js/main.7130e37d.js",
+    "static/media/cat-1.png": "/SWYFT-E-COMMERCE/static/media/cat-1.873bf471fd76d4002a64.png",
+    "static/media/jacket-banner.png": "/SWYFT-E-COMMERCE/static/media/jacket-banner.c2271ce2e8ab7614bc08.png",
+    "static/media/tshirt-prod-3.png": "/SWYFT-E-COMMERCE/static/media/tshirt-prod-3.9867df40c3786a65ba4a.png",
+    "static/media/shoes-prod-4.png": "/SWYFT-E-COMMERCE/static/media/shoes-prod-4.e6ff63755ab7fc0cf25f.png",
+    "static/media/newsletter-bg.jpeg": "/SWYFT-E-COMMERCE/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
+    "static/media/paymentSuccess.png": "/SWYFT-E-COMMERCE/static/media/paymentSuccess.3681c0e66d788244dcff.png",
+    "index.html": "/SWYFT-E-COMMERCE/index.html",
+    "main.cdc225e5.css.map": "/SWYFT-E-COMMERCE/static/css/main.cdc225e5.css.map",
+    "main.7130e37d.js.map": "/SWYFT-E-COMMERCE/static/js/main.7130e37d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdc225e5.css",
+    "static/js/main.7130e37d.js"
+  ]
+}
