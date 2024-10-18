@@ -66,13 +66,6 @@ The frontend will run on http://localhost:3000, and the Strapi CMS backend will 
 
 <br/>
 
-📄 License
-----------
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-<br/>
-
 🎉 Acknowledgments
 ------------------
 
