@@ -2,7 +2,7 @@
 
 🚀 A feature-rich e-commerce application developed using **React.js** for the frontend and **Strapi CMS** for content management in the backend. The app also integrates **Stripe** for payment processing and **Auth0** for authentication, offering a smooth shopping experience.
 
-🌐 **Deployed on**: [Netlify](https://swyftecommerceapp.netlify.app/)
+🌐 **Deployed on**: [Netlify](https://swyft-ecom.netlify.app/)
 
 ---
 
@@ -54,5 +54,31 @@ To get a local copy up and running, follow these steps.
    npm run develop
 
 The frontend will run on http://localhost:3000, and the Strapi CMS backend will run on http://localhost:1337.
+
+🛠️ Built With
+--------------
+
+*   **Frontend**: [React.js](https://reactjs.org/)
+*   **Backend**: [Strapi CMS](https://strapi.io/)
+*   **Authentication**: [Auth0](https://auth0.com/)
+*   **Payment Processing**: [Stripe](https://stripe.com/)
+*   **Deployment**: [Netlify](https://www.netlify.com/)
+
+<br/>
+
+📄 License
+----------
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+<br/>
+
+🎉 Acknowledgments
+------------------
+
+*   Special thanks to [Strapi](https://strapi.io/) for providing a flexible backend CMS.
+*   Kudos to the **React.js** community for making web development fun and efficient.
+*   Thanks to **Auth0** and **Stripe** for their seamless integration.
+
 
    
