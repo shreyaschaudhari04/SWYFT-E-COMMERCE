@@ -38,7 +38,7 @@ To get a local copy up and running, follow these steps.
    ```bash
    npm install
 3. **Configure environment variables**:
-
+   ```bash
    Stripe API Key: Add your Stripe API key to .env file in the frontend.  
    Auth0 Configuration: Set up your Auth0 credentials in auth_config.json file.
 
