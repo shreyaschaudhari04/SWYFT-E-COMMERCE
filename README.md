@@ -33,3 +33,26 @@ To get a local copy up and running, follow these steps.
 
    ```bash
    git clone https://github.com/your-username/Swyft-E-Commerce.git
+2. **Install Dependencies**:
+
+   ```bash
+   npm install
+3. **Configure environment variables**:
+
+   Stripe API Key: Add your Stripe API key to .env file in the frontend.
+   Auth0 Configuration: Set up your Auth0 credentials in auth_config.json file.
+
+4. **Run the frontend (React)**:
+
+   ```bash
+   npm start
+
+5. **Run the backend (Strapi CMS)**:
+
+   ```bash
+   cd API
+   npm run develop
+
+The frontend will run on http://localhost:3000, and the Strapi CMS backend will run on http://localhost:1337.
+
+   
