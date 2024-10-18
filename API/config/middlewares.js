@@ -4,7 +4,7 @@ module.exports = [
   {
     name: 'strapi::cors',
     config: {
-      origin: '*', // Adjust this to your frontend URL
+      origin: ['https://swyft-ecom.netlify.app/'], // Adjust this to your frontend URL
       methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'], // Specify allowed HTTP methods
       allowedHeaders: ['Content-Type', 'Authorization'],
       credentials: true, // Enable credentials if you're using cookies or authentication
