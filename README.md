@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Swyft E-Commerce
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀 A feature-rich e-commerce application developed using **React.js** for the frontend and **Strapi CMS** for content management in the backend. The app also integrates **Stripe** for payment processing and **Auth0** for authentication, offering a smooth shopping experience.
 
-## Available Scripts
+🌐 **Deployed on**: [Netlify](https://swyftecommerceapp.netlify.app/)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🔥 Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 🛍️ **Product Search**: Browse through various products with an easy-to-use search functionality.
+- 🛒 **Add to Cart**: Add multiple products to the cart and review before checkout.
+- 🔐 **Login/Logout**: Secure authentication using **Auth0** for a personalized experience.
+- 🧾 **Checkout**: View your cart, update item quantities, and proceed to payment.
+- 💳 **Stripe Payment Integration**: Make secure payments via **Stripe**.
+- 🌐 **Fast Deployment on Netlify**: Deployed using Netlify for quick and reliable access.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🚀 Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To get a local copy up and running, follow these steps.
 
-### `npm run build`
+### Prerequisites
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [Node.js](https://nodejs.org/en/) (v14.x or above)
+- [npm](https://www.npmjs.com/) (comes with Node.js)
+- [Strapi](https://strapi.io/) (v4.x or above)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### 🔧 Installation
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+1. **Clone the repository**:
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   ```bash
+   git clone https://github.com/your-username/Swyft-E-Commerce.git
